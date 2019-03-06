@@ -25,6 +25,9 @@ dependencies:
 - name: leafyg-go-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: mcarrico-go-http
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: mcgonagle-go-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
